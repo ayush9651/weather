@@ -13,10 +13,12 @@ padding:30px;
 border-radius:10px;
 text-align:center;
 color:white;
+width:300px;
 }
 
 input{
 padding:10px;
+width:70%;
 margin:10px;
 }
 
